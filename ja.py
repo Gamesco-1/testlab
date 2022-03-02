@@ -1,1 +1,1 @@
-print ('ja,weil gut')
+print ('ja,weil gut.')
